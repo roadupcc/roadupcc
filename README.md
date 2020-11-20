@@ -1,6 +1,6 @@
 ### Hi 
 
-一名交互设计与前端开发爱好者
+交互设计与前端开发爱好者
 
 https://www.yuque.com/roadup/frontend
 
