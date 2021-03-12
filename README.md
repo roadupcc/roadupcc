@@ -1,6 +1,9 @@
-### Hi 
+### Welcome.
 
-交互设计与前端开发爱好者
+I am a front-end developer.
+I write bug with JavaScript 、Go and Rust.
+In addition, I would also like Interactive Design.
+...
 
 https://roadup.cc
 
