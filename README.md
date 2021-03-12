@@ -1,10 +1,10 @@
 ### Welcome.
 
-I am a front-end developer.
+<div class="info">I am a front-end developer.</div>
 
-I write bug with JavaScript 、Go and Rust.
+<div class="info">I write bug with JavaScript 、Go and Rust.</div>
 
-In addition, I would also like Interactive Design.
+<div class="info">In addition, I would also like Interactive Design.</div>
 
 ...
 
