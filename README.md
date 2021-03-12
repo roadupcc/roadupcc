@@ -2,7 +2,7 @@
 
 交互设计与前端开发爱好者
 
-https://www.yuque.com/roadup/frontend
+https://roadup.cc
 
 <!--
 **oft/oft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
